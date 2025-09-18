@@ -1,3 +1,3 @@
-docker build -t darryl1975/cicd-demo-app:v1 .
+docker build -t xian492/cicd-demo-ws4:v1 .
 
-docker push darryl1975/cicd-demo-app:v1
+docker push xian492/cicd-demo-ws4:v1

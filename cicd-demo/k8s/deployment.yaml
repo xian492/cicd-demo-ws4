@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: cicd-demo-app
-          image: darryl1975/cicd-demo-app:v1
+          image: xian492/cicd-demo-ws4:v1
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
